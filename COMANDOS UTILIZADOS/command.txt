@@ -1,0 +1,1 @@
+cp es un comando que se utiliza para copiar archivos o carpetas
